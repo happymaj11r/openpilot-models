@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2024-12-19T00:00:00Z",
-  "models": [],
-  "key_id": "key_2024_01",
-  "signature": "jzY2l7q2pqV5mNxwpUWXZcDjaA/0UAJ2y/VQsulmBnHYB6fN6IAFxR3MnFiY87HEiBAox5W0CUBMZ0+wzvESAA=="
+  "updated_at": "2025-12-19T04:38:39Z",
+  "models": [
+    {
+      "id": "dark-souls-2",
+      "name": "Dark Souls 2",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/dark-souls-2",
+      "files": {
+        "driving_policy.onnx": {
+          "size": 13926324,
+          "sha256": "f8fe9a71b0fd428a045a82ed50790179f77aa664391198f078e11e7b2cb2c2d7"
+        },
+        "driving_vision.onnx": {
+          "size": 46271942,
+          "sha256": "1dc66bc06f250b577653ccbeaa2c6521b3d46749f601d0a1a366419e929ca438"
+        }
+      },
+      "minimum_selector_version": 1
+    }
+  ],
+  "key_id": "key_2025_01",
+  "signature": "9AtuADaNjUNbI5VKcEijK4Oj5sRAgg9Xk3XbGuIZEkboVb2+cmqogfsnX4lorvskJBnzzFD/Cur/WCk0MjypCg=="
 }

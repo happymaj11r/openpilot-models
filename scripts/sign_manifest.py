@@ -83,7 +83,7 @@ def generate_keypair():
     print(f'"{public_key_b64}"')
     print()
     print("=== common/keys.h에 추가 ===")
-    print(f'{{"key_2024_01", "{public_key_b64}"}},')
+    print(f'{{"key_2025_01", "{public_key_b64}"}},')
 
 
 def sign_manifest(manifest_path: Path):
