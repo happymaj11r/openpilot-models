@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-19T06:35:35Z",
+  "updated_at": "2025-12-19T13:52:23Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -24,8 +24,8 @@
       "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/neurips",
       "files": {
         "driving_policy.onnx": {
-          "size": 133,
-          "sha256": "cb2f4e3ca687076d99198a46d038cb2459583c2c0fa4814b4f6ab806d391395a"
+          "size": 13927145,
+          "sha256": "c84851714d8d221e378bd27db889b2c550b9e35b42f6508af1d826d0f06caffb"
         },
         "driving_vision.onnx": {
           "size": 46271942,
@@ -52,5 +52,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "wcZbVSrtrNvycRE8BOB9udSa0Kxv+zBNhUUtEdSArYMaPytUVUnaPldEkG5P0k7p4okPisOZ6aeKinryyJ7lBw=="
+  "signature": "bzOFKk+LieBDA7buc1KO3g6uVUW8sliIt9Cq5AQYl3iF7LnEhCUkA+hA2ysV8QB5Wxsy06gB0mAHrLi+0vS2Dw=="
 }
