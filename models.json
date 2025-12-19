@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-19T06:16:10Z",
+  "updated_at": "2025-12-19T06:20:22Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -36,5 +36,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "WhlUcBoi2dJlu+zEMXyB2Xy1ry6Z1JCGDdCjmmp5lM3Y6ozjzjA0FYBgu1U6EKVuEDbaXkNuhkE435LrtslHDg=="
+  "signature": "yP4UlbLlNFx9nSefDJVAkNTJvP+l5yuwmsZh5V9O896UPPsuFCWypNSwM0Bu41CmpwyTxzVHAKEBFBvMHPGsBg=="
 }

@@ -15,6 +15,7 @@
 import hashlib
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -23,6 +24,7 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).parent.parent
 MODELS_DIR = ROOT_DIR / "models"
 MODELS_JSON = ROOT_DIR / "models.json"
+README_FILE = ROOT_DIR / "README.md"
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models"
 
 # 필수 파일
@@ -95,6 +97,34 @@ def get_model_info(folder: Path, existing_models: dict) -> dict:
     }
 
 
+def update_readme(models: list):
+    """README.md의 Models 테이블 업데이트"""
+    if not README_FILE.exists():
+        return
+
+    content = README_FILE.read_text(encoding="utf-8")
+
+    # Models 테이블 생성
+    table_lines = [
+        "## Models",
+        "",
+        "| ID | Name | Size |",
+        "|----|------|------|",
+    ]
+    for m in models:
+        size_mb = sum(f["size"] for f in m["files"].values()) / (1024 * 1024)
+        table_lines.append(f"| {m['id']} | {m['name']} | {size_mb:.1f}MB |")
+    table_lines.append("")
+
+    # ## Models 부터 다음 ## 섹션 전까지 교체
+    pattern = r"## Models\n.*?(?=\n## )"
+    replacement = "\n".join(table_lines)
+    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+    README_FILE.write_text(new_content, encoding="utf-8")
+    print("README.md 업데이트 완료!")
+
+
 def update_models_json():
     """models.json 업데이트"""
     print("=" * 50)
@@ -165,6 +195,9 @@ def update_models_json():
         print("서명 완료!")
     else:
         print(f"서명 실패: {result.stderr}")
+
+    # README.md 업데이트
+    update_readme(new_models)
 
     # 결과 출력
     print("\n" + "=" * 50)
