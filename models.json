@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-19T06:20:22Z",
+  "updated_at": "2025-12-19T06:35:35Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -14,6 +14,22 @@
         "driving_vision.onnx": {
           "size": 46271942,
           "sha256": "1dc66bc06f250b577653ccbeaa2c6521b3d46749f601d0a1a366419e929ca438"
+        }
+      },
+      "minimum_selector_version": 1
+    },
+    {
+      "id": "neurips",
+      "name": "neurips",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/neurips",
+      "files": {
+        "driving_policy.onnx": {
+          "size": 133,
+          "sha256": "cb2f4e3ca687076d99198a46d038cb2459583c2c0fa4814b4f6ab806d391395a"
+        },
+        "driving_vision.onnx": {
+          "size": 46271942,
+          "sha256": "8f16d548ea4eb5d01518a9e90d4527cd97c31a84bcaf6f695dead8f0015fecc4"
         }
       },
       "minimum_selector_version": 1
@@ -36,5 +52,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "yP4UlbLlNFx9nSefDJVAkNTJvP+l5yuwmsZh5V9O896UPPsuFCWypNSwM0Bu41CmpwyTxzVHAKEBFBvMHPGsBg=="
+  "signature": "wcZbVSrtrNvycRE8BOB9udSa0Kxv+zBNhUUtEdSArYMaPytUVUnaPldEkG5P0k7p4okPisOZ6aeKinryyJ7lBw=="
 }
