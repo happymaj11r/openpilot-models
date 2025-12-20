@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-19T13:56:37Z",
+  "updated_at": "2025-12-20T05:25:30Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -49,8 +49,24 @@
         }
       },
       "minimum_selector_version": 1
+    },
+    {
+      "id": "WMIv3",
+      "name": "WMIv3",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/WMIv3",
+      "files": {
+        "driving_policy.onnx": {
+          "size": 13926324,
+          "sha256": "4a4ef7d3b7d1b2efde96ac56b8b37cc67c2427f2dd002e870883a74773f82639"
+        },
+        "driving_vision.onnx": {
+          "size": 46271942,
+          "sha256": "1dc66bc06f250b577653ccbeaa2c6521b3d46749f601d0a1a366419e929ca438"
+        }
+      },
+      "minimum_selector_version": 1
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "0vPuEW2ypQlzVvfMlbToK5urQO6Cd7OFhKQOQdKWC0zHklfwv7pnUDmqo1QC4BhqpGG+ZaXK5I5Pvu/dBA8FCg=="
+  "signature": "isc5QzzTULp0iGktf4wNQXLWiYrm383D6vLo+0W/F5KMHi/1X9GpS7y6/5bAhMwjfhOQMOSOzCp4tSwY3iA7Bw=="
 }
