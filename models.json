@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-20T05:25:30Z",
+  "updated_at": "2025-12-21T03:35:59Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -14,6 +14,22 @@
         "driving_vision.onnx": {
           "size": 46271942,
           "sha256": "1dc66bc06f250b577653ccbeaa2c6521b3d46749f601d0a1a366419e929ca438"
+        }
+      },
+      "minimum_selector_version": 1
+    },
+    {
+      "id": "DTRv6",
+      "name": "DTRv6",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/DTRv6",
+      "files": {
+        "driving_policy.onnx": {
+          "size": 15583374,
+          "sha256": "1af87c38492444521632a0e75839b5684ee46bf255b3474773784bffb9fe4f57"
+        },
+        "driving_vision.onnx": {
+          "size": 46265993,
+          "sha256": "c824f68646a3b94f117f01c70dc8316fb466e05fbd42ccdba440b8a8dc86914b"
         }
       },
       "minimum_selector_version": 1
@@ -68,5 +84,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "isc5QzzTULp0iGktf4wNQXLWiYrm383D6vLo+0W/F5KMHi/1X9GpS7y6/5bAhMwjfhOQMOSOzCp4tSwY3iA7Bw=="
+  "signature": "SjlNf8ouAoFLHSRYIh6W3QlPgl90H1+vL8zswl5h99Tu3nRbrF4fzfJ6SIzffD6Z/anBgVJHUYbn5fIVRdPOCg=="
 }
