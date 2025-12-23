@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-23T09:25:29Z",
+  "updated_at": "2025-12-22T06:15:20Z",
   "models": [
     {
       "id": "dark-souls-2",
@@ -25,11 +25,11 @@
       "files": {
         "driving_policy.onnx": {
           "size": 15583374,
-          "sha256": "5547dddd63fa27c22f83f708377dcacd1c8f5518375e4d6490df992af5ce5b20"
+          "sha256": "1af87c38492444521632a0e75839b5684ee46bf255b3474773784bffb9fe4f57"
         },
         "driving_vision.onnx": {
           "size": 46265993,
-          "sha256": "3d2bd82ba42341dba1bda5426e45c4c646db604c9ac422156eaa2b9ef26194f9"
+          "sha256": "c824f68646a3b94f117f01c70dc8316fb466e05fbd42ccdba440b8a8dc86914b"
         }
       },
       "minimum_selector_version": 1
@@ -100,5 +100,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "PZvE7TAzUtcUB1KHeW2xMdhHqsOfIK6VeXkEdbdPTn4CUkQqSnlhRgnZ44ChCw6X66VKzYirxb2M5+pPypR0Cg=="
+  "signature": "wkW+DQTevEPWIiLxAxeUe5Zgy5th18cIqgEvA0nBZECzZHiapMEXKaz6VPkF99CFFYkvBS9idLGT6QiSm4n3Dw=="
 }
