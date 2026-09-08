@@ -191,6 +191,18 @@
       "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-cinque-driving-e8d82173/big_driving_supercombo.onnx",
       "added_at": "2026-09-05T04:09:49.291254+09:00",
       "matched_model": "Lebowski"
+    },
+    {
+      "name": "Codex/cinque Divergence Mask Big",
+      "series_key": "codex-cinque-divergence-mask-big",
+      "version": 1,
+      "source_branch": "codex/cinque-divergence-mask",
+      "sha256": "09d080f36965bb2a0790500452bd328aa03c484d0222aa79d1ad9f021a522aec",
+      "size": 766040736,
+      "tag": "big-codex-cinque-divergence-mask-09d080f3",
+      "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-codex-cinque-divergence-mask-09d080f3/big_driving_supercombo.onnx",
+      "added_at": "2026-09-09T07:41:21.878245+09:00",
+      "matched_model": "Lebowski"
     }
   ]
 }
