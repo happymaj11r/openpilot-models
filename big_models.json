@@ -203,6 +203,18 @@
       "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-codex-cinque-divergence-mask-09d080f3/big_driving_supercombo.onnx",
       "added_at": "2026-09-09T07:41:21.878245+09:00",
       "matched_model": "Lebowski"
+    },
+    {
+      "name": "Onnx Model History Big",
+      "series_key": "onnx-model-history-big",
+      "version": 1,
+      "source_branch": "onnx-model-history",
+      "sha256": "dbe2046a39e28a427c965f6f1a8d6a8604d75e72d69225d052d6b6324f4d7f52",
+      "size": 766075773,
+      "tag": "big-onnx-model-history-dbe2046a",
+      "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-dbe2046a/big_driving_supercombo.onnx",
+      "added_at": "2026-09-15T08:40:40.606925+09:00",
+      "matched_model": "Onnx Model History"
     }
   ]
 }
