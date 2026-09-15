@@ -12,6 +12,7 @@ Custom driving models for openpilot (carrot fork).
 
 | ID | Name | Size | Added |
 |----|------|------|-------|
+| Onnx Model Historyv3 | Onnx Model Historyv3 | 58.1MB | 2026-09-15 |
 | Onnx Model Historyv2 | Onnx Model Historyv2 | 58.1MB | 2026-09-15 |
 | Onnx Model History | Onnx Model History | 58.1MB | 2026-09-15 |
 | TSFDO | TSFDO | 92.2MB | 2026-08-16 |

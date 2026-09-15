@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T09:09:09+09:00",
+  "updated_at": "2026-09-15T10:09:08+09:00",
   "models": [
     {
       "id": "BRH",
@@ -682,6 +682,19 @@
       "added_at": "2026-09-15"
     },
     {
+      "id": "Onnx Model Historyv3",
+      "name": "Onnx Model Historyv3",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/Onnx Model Historyv3",
+      "files": {
+        "driving_supercombo.onnx": {
+          "size": 60918562,
+          "sha256": "65a08adc31d5c456219687d99b7bf5e44d61dae2d49ea67850e76105c7248cce"
+        }
+      },
+      "minimum_selector_version": 5,
+      "added_at": "2026-09-15"
+    },
+    {
       "id": "Op model16",
       "name": "Op model16",
       "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/Op model16",
@@ -1329,5 +1342,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "+DC7njlYHl7w2kgMR/AuBEY/GcRs/sR0UO7skAgsvkxnETUgzvj9O8LmD6kJUjVdn77K21ws0PqI2qacsd5YDg=="
+  "signature": "45Wm5nIUEbesHIdckGbbVhUN6niHuOb/6D6RR5vKqj1XNC0R9AenncVNVT1k84x4uUBf52fGYo+/zftM5vUDDg=="
 }
