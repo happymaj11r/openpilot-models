@@ -227,6 +227,18 @@
       "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-12085b95/big_driving_supercombo.onnx",
       "added_at": "2026-09-15T09:10:38.509204+09:00",
       "matched_model": "Onnx Model Historyv2"
+    },
+    {
+      "name": "Onnx Model History Bigv3",
+      "series_key": "onnx-model-history-big",
+      "version": 3,
+      "source_branch": "onnx-model-history",
+      "sha256": "6fee5937923c74848df4a63f6239eb6331c6274dd4bdb7a5d6ec0388a8b543d5",
+      "size": 766018462,
+      "tag": "big-onnx-model-history-6fee5937",
+      "url": "https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-6fee5937/big_driving_supercombo.onnx",
+      "added_at": "2026-09-15T10:10:49.881178+09:00",
+      "matched_model": "Onnx Model Historyv3"
     }
   ]
 }

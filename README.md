@@ -98,6 +98,7 @@ comma usbgpu(chestnut) 전용 `big_driving_supercombo.onnx` (~1.7GB).
 
 | Name | Source branch | Size | Added | Download |
 |------|---------------|------|-------|----------|
+| Onnx Model History Bigv3 | `onnx-model-history` | 730.5MB | 2026-09-15 | [release](https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-6fee5937/big_driving_supercombo.onnx) |
 | Onnx Model History Bigv2 | `onnx-model-history` | 730.6MB | 2026-09-15 | [release](https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-12085b95/big_driving_supercombo.onnx) |
 | Onnx Model History Big | `onnx-model-history` | 730.6MB | 2026-09-15 | [release](https://github.com/happymaj11r/openpilot-models/releases/download/big-onnx-model-history-dbe2046a/big_driving_supercombo.onnx) |
 | Codex/cinque Divergence Mask Big | `codex/cinque-divergence-mask` | 730.6MB | 2026-09-09 | [release](https://github.com/happymaj11r/openpilot-models/releases/download/big-codex-cinque-divergence-mask-09d080f3/big_driving_supercombo.onnx) |
