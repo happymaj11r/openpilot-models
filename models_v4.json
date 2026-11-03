@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T17:39:17+09:00",
+  "updated_at": "2026-11-03T19:08:43+09:00",
   "models": [
     {
       "id": "BRH",
@@ -1010,7 +1010,7 @@
           "sha256": "0305e011db93eec2a4287a4d8944021efbd07fc38c0abda654923380e9d46b21"
         }
       },
-      "minimum_selector_version": 4,
+      "minimum_selector_version": 5,
       "added_at": "2026-11-03"
     },
     {
@@ -1023,7 +1023,7 @@
           "sha256": "ca37cda33829c052f64ce06ff496f9bf98cd9c051186db67daedb1c5e3ec49ad"
         }
       },
-      "minimum_selector_version": 4,
+      "minimum_selector_version": 5,
       "added_at": "2026-11-03"
     },
     {
@@ -1036,7 +1036,7 @@
           "sha256": "3172a4b93edeca8be43bda0b32d17d1b613f891d41012bdd43d4715c0f2ccd25"
         }
       },
-      "minimum_selector_version": 4,
+      "minimum_selector_version": 5,
       "added_at": "2026-11-03"
     },
     {
@@ -1049,7 +1049,7 @@
           "sha256": "eb8abf7a7c53eddd1e00ed5df48d369d80a88fe1247f8fbe06df39a143271448"
         }
       },
-      "minimum_selector_version": 4,
+      "minimum_selector_version": 5,
       "added_at": "2026-11-03"
     },
     {
@@ -1394,5 +1394,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "PZGIIs9W0OyXyalnPS33Jn3XgzDTDLwluKBSyrWv86Yt7n+nStKiJKFeQwJYhqhQbT//KkOykgyO12vOXQ3QBA=="
+  "signature": "T7jCyEDvF3E9msbA3EypcHMAtcUEn/yf7NU1cll9WUOSklu6o9geIvvvDihtpUC+0THsxhBRTg+LRtLhAPXwBw=="
 }
