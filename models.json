@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T16:39:16+09:00",
+  "updated_at": "2026-11-03T17:09:15+09:00",
   "models": [
     {
       "id": "CD210",
@@ -1017,5 +1017,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "+6Djz/PNm/ZBHL0MxK24M7BaIpr7N7ALZBNXOFC5gqrSUaycU9nmicrQMBTH2u2P8FK2O1y6ussLHnPr67N6DA=="
+  "signature": "7e+4h0bEVuX3Tktk1UUeAjtoSuVlQyfN8/naEj5G4B5iVQaDduXovk1t9e7zDyXX4hx+FQ1aNBNNVkBk1TGkBQ=="
 }
