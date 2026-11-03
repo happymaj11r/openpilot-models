@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T17:09:15+09:00",
+  "updated_at": "2026-11-03T17:39:17+09:00",
   "models": [
     {
       "id": "BRH",
@@ -1040,6 +1040,19 @@
       "added_at": "2026-11-03"
     },
     {
+      "id": "SSHv4",
+      "name": "SSHv4",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/SSHv4",
+      "files": {
+        "driving_supercombo.onnx": {
+          "size": 60918903,
+          "sha256": "eb8abf7a7c53eddd1e00ed5df48d369d80a88fe1247f8fbe06df39a143271448"
+        }
+      },
+      "minimum_selector_version": 4,
+      "added_at": "2026-11-03"
+    },
+    {
       "id": "TSFDO",
       "name": "TSFDO",
       "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/TSFDO",
@@ -1381,5 +1394,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "HnG/E3+Dng3+8AX7haVLe7+cbXdKifG7BasmdB5wIrXurSZvVtep+lpj2RsZjEZ8WipwW2i2w1tJBTEjsemrAw=="
+  "signature": "PZGIIs9W0OyXyalnPS33Jn3XgzDTDLwluKBSyrWv86Yt7n+nStKiJKFeQwJYhqhQbT//KkOykgyO12vOXQ3QBA=="
 }
