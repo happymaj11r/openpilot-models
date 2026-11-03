@@ -12,6 +12,7 @@ Custom driving models for openpilot (carrot fork).
 
 | ID | Name | Size | Added |
 |----|------|------|-------|
+| SSHv2 | SSHv2 | 58.1MB | 2026-11-03 |
 | SSH | SSH | 58.1MB | 2026-11-03 |
 | Onnx Model Historyv3 | Onnx Model Historyv3 | 58.1MB | 2026-09-15 |
 | Onnx Model Historyv2 | Onnx Model Historyv2 | 58.1MB | 2026-09-15 |
