@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T19:08:43+09:00",
+  "updated_at": "2026-11-06T05:42:29+09:00",
   "models": [
     {
       "id": "BRH",
@@ -48,6 +48,19 @@
       },
       "minimum_selector_version": 1,
       "added_at": "2025-10-25"
+    },
+    {
+      "id": "CH",
+      "name": "CH",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/CH",
+      "files": {
+        "driving_supercombo.onnx": {
+          "size": 82558205,
+          "sha256": "5520d198bbbe2736b7fbbc432c2d7a97e306db74214aa1677fed70521b9b9eb4"
+        }
+      },
+      "minimum_selector_version": 5,
+      "added_at": "2026-11-06"
     },
     {
       "id": "DTRv6",
@@ -1394,5 +1407,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "T7jCyEDvF3E9msbA3EypcHMAtcUEn/yf7NU1cll9WUOSklu6o9geIvvvDihtpUC+0THsxhBRTg+LRtLhAPXwBw=="
+  "signature": "wRrwiR3tBmbTPgOna4TI8mWfHTAQpOAEbbCGQy9arkQe2eUJO1U8AN2PDmu+Uj3+NQrp67X4Nd/+DLWuORgoCw=="
 }

@@ -12,6 +12,7 @@ Custom driving models for openpilot (carrot fork).
 
 | ID | Name | Size | Added |
 |----|------|------|-------|
+| CH | CH | 78.7MB | 2026-11-06 |
 | SSHv4 | SSHv4 | 58.1MB | 2026-11-03 |
 | SSHv3 | SSHv3 | 58.1MB | 2026-11-03 |
 | SSHv2 | SSHv2 | 58.1MB | 2026-11-03 |
