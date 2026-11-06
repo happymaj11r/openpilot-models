@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T05:42:29+09:00",
+  "updated_at": "2026-11-06T15:42:27+09:00",
   "models": [
     {
       "id": "BRH",
@@ -57,6 +57,19 @@
         "driving_supercombo.onnx": {
           "size": 82558205,
           "sha256": "5520d198bbbe2736b7fbbc432c2d7a97e306db74214aa1677fed70521b9b9eb4"
+        }
+      },
+      "minimum_selector_version": 5,
+      "added_at": "2026-11-06"
+    },
+    {
+      "id": "CHv2",
+      "name": "CHv2",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/CHv2",
+      "files": {
+        "driving_supercombo.onnx": {
+          "size": 82502228,
+          "sha256": "18719f77a7781a50b0983309c936cd99717eb8c982b60c057f544ab8450133c2"
         }
       },
       "minimum_selector_version": 5,
@@ -1407,5 +1420,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "wRrwiR3tBmbTPgOna4TI8mWfHTAQpOAEbbCGQy9arkQe2eUJO1U8AN2PDmu+Uj3+NQrp67X4Nd/+DLWuORgoCw=="
+  "signature": "i/0y/vksspU8WmXU0wZiWeGOLwF/T+VnWhhHKdkAUpWIS18RP7n+sOD8HBRKFKGlm4nM+iVvjUHoJR8DVcPSAg=="
 }
