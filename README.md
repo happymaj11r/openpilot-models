@@ -12,6 +12,7 @@ Custom driving models for openpilot (carrot fork).
 
 | ID | Name | Size | Added |
 |----|------|------|-------|
+| Cheddar | Cheddar | 66.4MB | 2026-11-18 |
 | CHv2 | CHv2 | 78.7MB | 2026-11-06 |
 | CH | CH | 78.7MB | 2026-11-06 |
 | SSHv4 | SSHv4 | 58.1MB | 2026-11-03 |

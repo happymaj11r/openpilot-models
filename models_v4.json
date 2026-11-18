@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T15:42:27+09:00",
+  "updated_at": "2026-11-18T09:12:28+09:00",
   "models": [
     {
       "id": "BRH",
@@ -74,6 +74,19 @@
       },
       "minimum_selector_version": 5,
       "added_at": "2026-11-06"
+    },
+    {
+      "id": "Cheddar",
+      "name": "Cheddar",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/Cheddar",
+      "files": {
+        "driving_supercombo.onnx": {
+          "size": 69671018,
+          "sha256": "350a47ea36e554fb71634c7361b2c2a2a3da07ecb211a4c6cff3d2c3013d1d82"
+        }
+      },
+      "minimum_selector_version": 5,
+      "added_at": "2026-11-18"
     },
     {
       "id": "DTRv6",
@@ -1420,5 +1433,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "i/0y/vksspU8WmXU0wZiWeGOLwF/T+VnWhhHKdkAUpWIS18RP7n+sOD8HBRKFKGlm4nM+iVvjUHoJR8DVcPSAg=="
+  "signature": "xVX0XHRLro60xb3iq//KIOkSEZogYgNibg4DbA2BtX1gDQAWp697akKevQ6t77tIH3XzglA0sFmH1OYZz7CIAQ=="
 }
