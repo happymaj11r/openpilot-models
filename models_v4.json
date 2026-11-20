@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T09:12:28+09:00",
+  "updated_at": "2026-11-20T17:16:53+09:00",
   "models": [
     {
       "id": "BRH",
@@ -670,7 +670,7 @@
           "sha256": "f9d18514382eb768f56533c03f7a332ba0adf080869f64f1c3ebfd2b2a1f42a6"
         }
       },
-      "minimum_selector_version": 2,
+      "minimum_selector_version": 99,
       "added_at": "2026-03-14"
     },
     {
@@ -704,7 +704,7 @@
           "sha256": "ae85c88f6de5e48dda0d01e85c0b4936b34fd9fd2dcca78ba0843a830ba85b29"
         }
       },
-      "minimum_selector_version": 4,
+      "minimum_selector_version": 5,
       "added_at": "2026-09-15"
     },
     {
@@ -1433,5 +1433,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "xVX0XHRLro60xb3iq//KIOkSEZogYgNibg4DbA2BtX1gDQAWp697akKevQ6t77tIH3XzglA0sFmH1OYZz7CIAQ=="
+  "signature": "YgxSqqxivpW65ljueie4ECiYzgxx+u3/CaH0iFzy/MzYkbWsQ65jB2oiBF8TUaTUuNIRRtRvfHZpH/kP4OS3Bw=="
 }
